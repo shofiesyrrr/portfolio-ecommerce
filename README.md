@@ -33,6 +33,5 @@ Analisis pola pembatalan pesanan di platform e-commerce Indonesia menggunakan da
 2. Pembayaran via Alfamart/Dan+Dan sering batal
 3. Tangerang penyumbang pembatalan terbesar
 
-## 👤 Author
 **Shofi Syahria Mahram**
 - GitHub: [@shofiesyrrr](https://github.com/shofiesyrrr)
