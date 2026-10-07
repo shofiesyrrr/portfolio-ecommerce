@@ -34,4 +34,4 @@ Analisis pola pembatalan pesanan di platform e-commerce Indonesia menggunakan da
 3. Tangerang penyumbang pembatalan terbesar
 
 **Shofi Syahria Mahram**
-- GitHub: [@shofiesyrrr](https://github.com/shofiesyrrr)
+GitHub: [@shofiesyrrr](https://github.com/shofiesyrrr)
