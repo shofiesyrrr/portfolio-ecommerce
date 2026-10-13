@@ -35,3 +35,10 @@ Analisis pola pembatalan pesanan di platform e-commerce Indonesia menggunakan da
 
 **Shofi Syahria Mahram**
 GitHub: [@shofiesyrrr](https://github.com/shofiesyrrr)
+
+## Dataset
+- **Sumber:** Kaggle — Indonesia E-Commerce Sales
+- **Periode:** 1 Februari 2025 - 31 Agustus 2025 (7 bulan)
+- **Ukuran awal:** 18.868 baris × 19 kolom
+- **Ukuran bersih:** 18.680 baris × 20 kolom
+- **Missing values:** 754 sel ditangani
